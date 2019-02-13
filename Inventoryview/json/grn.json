@@ -1,0 +1,46 @@
+[
+	{
+		"id":1,
+		"supplier_id":6,
+		"grn_date":"2017-10-11",
+		"sup_name":"Naveen",
+		"sup_address":"bomiriya, kaduwela",
+		"sup_city":"colombo",
+		"grn_remarks":"nothing",
+		"created_at":"2017-10-11 04:28:38",
+		"updated_at":"2017-10-11 04:28:38",
+
+		"inventory_item_id":[2 , 3],
+		"grn_quantity":"65.00",
+		"grn_id":73,
+		"grn_item_remarks":"wqdsd",
+
+
+		"grn_item_id":51,
+		"inventory_date":"2017-10-11",
+		"inventory_quantity":"65.00",
+		"inventory_balance":"65.00"
+	},
+	{
+		"id":2,
+		"supplier_id":6,
+		"grn_date":"2017-10-11",
+		"sup_name":"Naveen",
+		"sup_address":"bomiriya, kaduwela",
+		"sup_city":"colombo",
+		"grn_remarks":"nothing",
+		"created_at":"2017-10-11 04:28:38",
+		"updated_at":"2017-10-11 04:28:38",
+
+		"inventory_item_id":[222 , 223],
+		"grn_quantity":"65.00",
+		"grn_id":73,
+		"grn_item_remarks":"wqdsd",
+
+
+		"grn_item_id":51,
+		"inventory_date":"2017-10-11",
+		"inventory_quantity":"65.00",
+		"inventory_balance":"65.00"
+	}
+]
